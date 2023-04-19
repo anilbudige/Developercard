@@ -1,0 +1,148 @@
+{
+  "user": [
+    {
+      "firstName": "anil",
+      "lastName": "budige",
+      "email": "anil@gmail.com",
+      "password": "amma@8790",
+      "confirmPassword": "amma@8790",
+      "id": "LfUVoiH"
+    },
+    {
+      "firstName": "shiva",
+      "lastName": "E",
+      "email": "shiva@gmail.com",
+      "password": "anil@8790",
+      "confirmPassword": "anil@8790",
+      "id": "_2HS-KL"
+    },
+    {
+      "firstName": "manohar",
+      "lastName": "p",
+      "email": "manohar@gmail.com",
+      "password": "manohar@87",
+      "confirmPassword": "manohar@87",
+      "id": "UqSEAus"
+    },
+    {
+      "firstName": "ravi",
+      "lastName": "R",
+      "email": "ravi@gmail.com",
+      "password": "ravi@8790",
+      "confirmPassword": "ravi@8790",
+      "id": "HNzqfsF"
+    },
+    {
+      "firstName": "ravi",
+      "lastName": "R",
+      "email": "ravi@gmail.com",
+      "password": "ravi@8790",
+      "confirmPassword": "ravi@8790",
+      "id": "1Wtq6MC"
+    },
+    {
+      "firstName": "anil",
+      "lastName": "budige",
+      "email": "anil@gmail.com",
+      "password": "amma@8790",
+      "confirmPassword": "amma@8790",
+      "id": "M8TZAq0"
+    },
+    {
+      "firstName": "abhi",
+      "lastName": "bandi",
+      "email": "abhi@gmail.com",
+      "password": "abhi@1234",
+      "confirmPassword": "abhi@1234",
+      "id": "ZYdSSn9"
+    },
+    {
+      "firstName": "mithil",
+      "lastName": "k",
+      "email": "mithil@gmail.com",
+      "password": "mithil123",
+      "confirmPassword": "mithil123",
+      "id": "H3yA-nB"
+    },
+    {
+      "firstName": "santhoo",
+      "lastName": "d",
+      "email": "santhoo@gmail.com",
+      "password": "santhoo123",
+      "confirmPassword": "santhoo123",
+      "id": "cP8CZB6"
+    },
+    {
+      "firstName": "kiran",
+      "lastName": "kiran",
+      "email": "kiran@gmail.com",
+      "password": "kiran123",
+      "confirmPassword": "kiran123",
+      "id": "h9RiYPg"
+    },
+    {
+      "firstName": "anil",
+      "lastName": "budige",
+      "email": "anil123@gmail.com",
+      "password": "anil@8790",
+      "confirmPassword": "anil@8790",
+      "id": "SZ8Ojjj"
+    },
+    {
+      "firstName": "santhoo",
+      "lastName": "d",
+      "email": "santhoo@gmail.com",
+      "password": "santhoo123",
+      "confirmPassword": "santhoo123",
+      "id": "55Achbc"
+    },
+    {
+      "firstName": "kiran",
+      "lastName": "kiran",
+      "email": "kiran@gmail.com",
+      "password": "kiran1234",
+      "confirmPassword": "kiran1234",
+      "id": "OA5JPGf"
+    },
+    {
+      "firstName": "santhoo",
+      "lastName": "d",
+      "email": "santhoo@gmail.com",
+      "password": "anil@8790",
+      "confirmPassword": "anil@8790",
+      "id": "rDM-21x"
+    },
+    {
+      "firstName": "anil",
+      "lastName": "budige",
+      "email": "anil123@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": "iw-ZM7H"
+    },
+    {
+      "firstName": "ram",
+      "lastName": "sai",
+      "email": "ram@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "id": "BIYASv2"
+    },
+    {
+      "firstName": "vnd",
+      "lastName": "kumar",
+      "email": "vnd@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789",
+      "id": "N3t7h9y"
+    },
+    {
+      "firstName": "BANDI",
+      "lastName": "VENKANNA",
+      "email": "anilbudige1807@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789",
+      "id": "Z-GUCwY"
+    }
+  ]
+}
